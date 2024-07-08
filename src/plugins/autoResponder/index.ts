@@ -78,7 +78,7 @@ const settings = definePluginSettings({
 export default definePlugin({
     name: "Auto-Responder",
     authors: [Devs.Bluejutzu],
-    description: "Automatically respond to specific keywords with predefined responses.",
+    description: "Automatically respond to keywords with predefined responses",
     settings,
     start() { },
     stop() { },
